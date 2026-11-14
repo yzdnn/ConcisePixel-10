@@ -27,3 +27,5 @@
 ## **～联络作者～**
 
 如果遇到缺字或错字，欢迎到[这里](https://github.com/yzdnn/ConcisePixel-10/issues/1)进行反馈。
+
+<img width="960" height="656" alt="精简像素体 10 横版" src="https://github.com/user-attachments/assets/d4192441-6f9f-4a4e-b62b-74405a9a21b7" />
