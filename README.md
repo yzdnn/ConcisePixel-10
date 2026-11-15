@@ -15,7 +15,7 @@
 
 ## **～详细介绍～**
 
-<img width="2000" height="1000" alt="1横版" src="https://github.com/user-attachments/assets/e936994d-53b9-41da-bf0f-e9b45a05179c" />
+<img width="2000" height="1000" alt="1横版" src="https://github.com/user-attachments/assets/3503e3bf-c9e4-436f-9272-58ba56553166" />
 <img width="2000" height="1000" alt="2横版" src="https://github.com/user-attachments/assets/570950c8-7b42-47dc-8b38-60ae7280ec50" />
 <img width="2000" height="1000" alt="3横版" src="https://github.com/user-attachments/assets/868aa5cc-639d-4354-a925-d0eadf5b9052" />
 <img width="2000" height="1000" alt="4横版" src="https://github.com/user-attachments/assets/30ecc731-2d78-41ba-a96f-5ffa491f8d27" />
